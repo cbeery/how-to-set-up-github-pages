@@ -6,7 +6,7 @@ You'll need;
 - A second grade education or higher 
 - 5 minutes 
 
-Here's some info you don't care about, so skip this paragraph if you're feeling antsy: Git is "version control" software used by nerds everywhere. In Git, a collection of files is called a **repository** (or, colloquially, a "repo"). GitHub is a service that hosts repositories online. GitHub Pages is a special feature of GitHub that turns a text file into a simple web page. This page you're looking at is a file in a Git repository, hosted on GitHub, served up via GitHub Pages. 
+Here's some info you don't care about, so skip this paragraph if you're feeling antsy: [Git](https://git-scm.com/) is "version control" software used by nerds everywhere. In Git, a collection of files is called a **repository** (or, colloquially, a "repo"). [GitHub](https://github.com) ([github.com](https://github.com)) is a service that hosts repositories online. [GitHub Pages](https://pages.github.com) is a special feature of GitHub that turns a text file into a simple web page. This page you're looking at is a file in a Git repository, hosted on GitHub, served up via GitHub Pages. 
 
 Let's get fucking started. 
 
