@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+Here's you: You want to make a web page, you don't want to mess with HTML or don't even know what the hell that is, and your budget is approximately zero dollars. Keep reading. 
 
-You can use the [editor on GitHub](https://github.com/cbeery/how-to-set-up-github-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You'll need;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- An internet-connected computer, tablet or phone
+- A second grade education or higher 
+- 5 minutes 
 
-### Markdown
+Here's some info you don't care about, so skip this paragraph if you're feeling antsy: Git is "version control" software used by nerds everywhere. In Git, a collection of files is called a **repository** (or, colloquially, a "repo"). GitHub is a service that hosts repositories online. GitHub Pages is a special feature of GitHub that turns a text file into a simple web page. This page you're looking at is a file in a Git repository, hosted on GitHub, served up via GitHub Pages. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Let's get fucking started. 
 
-```markdown
-Syntax highlighted code block
+1. Sign up for a GitHub account 
+2. Create a new repository 
+3. Activate GitHub Pages and choose a theme
+4. Add your content
+5. You're all done
+6. Editing your page
+7. Advanced topics
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbeery/how-to-set-up-github-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
