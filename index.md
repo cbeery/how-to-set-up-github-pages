@@ -8,12 +8,12 @@ You'll need;
 
 Here's some info you don't care about, so skip this paragraph and the next one if you're feeling antsy: [Git](https://git-scm.com/) is "version control" software used by computer nerds everywhere. In Git, a collection of files is called a **repository** (or, colloquially, a **"repo"**). [GitHub](https://github.com) ([github.com](https://github.com)) is a service that hosts repositories online. [GitHub Pages](https://pages.github.com) is a special feature of GitHub that turns a text file into a simple web page.
 
-This page you're looking at right now is a file in a Git repository, hosted on GitHub, served up via GitHub Pages. 
+This page you're looking at right now is a **file** in a **Git repository**, hosted on **GitHub**, served up via **GitHub Pages**. 
 
 Let's get fucking started. 
 
 1. Sign up for a GitHub account 
-2. Create a new repository 
+[2. Create a new repository ]('#part2')
 3. Activate GitHub Pages and choose a theme
 4. Add your content
 5. You're all done
@@ -42,11 +42,12 @@ If you're done this already, fast-forward to step 2.
 
 ![](img/04-verify-email.png)
 
+<a name="part2"></a>
 ## Create a new repository
 
-You'll need to make a new repository; think of this like a "project" where you keep some files.
+You'll need to make a new repository: a "project" where you keep some files.
 
-In fact, after you first sign up, you can to this with the "Start a project" button.
+After you *first* sign up, you can to this with the "Start a project" button.
 
 ![](img/05-start-a-project.png)
 
@@ -61,12 +62,7 @@ Once you've reached the "Create a new repository" page, enter the name you want 
 
 ## Activate GitHub Pages and choose a theme
 
-Once you've created the repository, you'll be looking at the contents of your initially-empty repository, with a URL something like:
+Once you've created the repository, you'll be looking at the contents of your initially-empty repository. Hit the Settings tab.
 
-https://githib.com/your-github-username/your-repository-name
-
-
-
-
-
+![](img/09-settings.png)
 
