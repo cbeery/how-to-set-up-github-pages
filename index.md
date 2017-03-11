@@ -10,7 +10,7 @@ Here's some info you don't care about, so skip the following list if you're feel
 
 - [**Git**](https://git-scm.com/) is "version control" software used by computer nerds everywhere.
 - In Git, a collection of files is called a **repository** (or, colloquially, a **"repo"**).
-- [**GitHub**](https://github.com) ([github.com](https://github.com)) is a service that hosts repositories online.
+- [**GitHub**](https://github.com) ([github.com](https://github.com)) is a service that hosts Git repositories online.
 - [**GitHub Pages**](https://pages.github.com) is a special feature of GitHub that turns a text file into a simple web page.
 
 This page you're looking at right now is a **file** in a **Git repository**, hosted on **GitHub**, served up via **GitHub Pages**. 
@@ -28,7 +28,7 @@ Let's get fucking started.
 <a name="signup"></a>
 ## Create a GitHub account
 
-If you're done this already, fast-forward to step 2.
+If you're done this already, [fast-forward to step 2](#create-a-new-repo).
 
 1\. Visit [githib.com](https://github.com) and "Sign up." You'll need to pick a username, provide an email address and set your password.
 
