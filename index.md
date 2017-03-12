@@ -22,7 +22,7 @@ Let's get fucking started.
 3. [Activate GitHub Pages and choose a theme](#activate-github-pages)
 4. [Add your content](#add-your-content)
 5. [You're all done](#check-out-your-page)
-6. [Editing your page](#edit-your-content)
+6. [Updating your page](#edit-your-content)
 7. [Advanced topics](#advanced-topics)
 
 <a name="signup"></a>
@@ -96,7 +96,9 @@ Replace that boilerplate with whatever you want on your page.
 
 ![](img/13-adding-my-content.png)
 
-To save your changes, scroll down and click the "Commit changes" button. All your life, you've clicked "Save" buttons to save your stuff, but this is nerd territory. Here you're not just "saving" your shit, you're "committing changes" to it. As far as you're concerned, same thing.
+To save your changes, scroll down and click the "Commit changes" button.
+
+All your life, you've clicked "Save" buttons to save your stuff, but this is nerd territory. Here you're not just "saving" your shit, you're "committing changes" to it. As far as you're concerned: same thing.
 
 ![](img/14-commit-change-button.png)
 
@@ -116,5 +118,34 @@ Then you'll be looking at your page.
 ![](img/17-here-is-your-page.png)
 
 **Holy crap, you're done.**
+
+<a name="edit-your-content"></a>
+## Updating your page
+
+Chances are you'll want to edit your page sometimes.
+
+Here's how the nerds do it: They'll edit their files offline on their computer in some text-editing software that you wouldn't have the slightest idea how to use, then they'll push all their changes at once using a command-line tool that's also on your own computer but you have no idea about it.
+
+Are you going to try that? You're not some nerd. You'll just change your page right in your browser, like any person who's comfortable making eye contact with another human would do.
+
+![](img/18-click-pencil-to-edit.png)
+
+1. Find your **index.md** file in your repository
+2. Click the little pencil icon to edit the text
+3. Make any changes you want
+4. Scroll down and click your old friend, the "Commit changes" button
+
+By the way, any time you're clicking that "Commit changes" button, there's a field above it with the placeholder text "Update." You can optionally type anything you want it there, describing the changes you just made, which could be useful later when you're looking at the history of your updates/changes.
+
+![](img/19-commit-message.png)
+
+<a name="advanced-topics"></a>
+## Advanced topics for the desperately lonely
+
+You've probably got some semblance of a life to lead: kids to feed, a job to pretend to do, and that handle of Jamo isn't going to drink itself.
+
+
+
+
 
 
