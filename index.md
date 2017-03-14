@@ -8,10 +8,10 @@ You'll need;
 
 Here's some info you don't care about, so skip the following list if you're feeling antsy: 
 
-- [**Git**](https://git-scm.com/) is "version control" software used by computer nerds everywhere.
+- [Git](https://git-scm.com/) is "version control" software used by computer nerds everywhere.
 - In Git, a collection of files is called a **repository** (or, colloquially, a **"repo"**).
-- [**GitHub**](https://github.com) ([github.com](https://github.com)) is a service that hosts Git repositories online.
-- [**GitHub Pages**](https://pages.github.com) is a special feature of GitHub that turns a text file into a simple web page.
+- [GitHub](https://github.com) ([github.com](https://github.com)) is a service that hosts Git repositories online.
+- [GitHub Pages](https://pages.github.com) is a special feature of GitHub that turns a text file into a simple web page.
 
 This page you're looking at right now is a **file** in a **Git repository**, hosted on **GitHub**, served up via **GitHub Pages**. 
 
