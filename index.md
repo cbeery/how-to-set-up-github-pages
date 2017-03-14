@@ -153,7 +153,7 @@ If that's not the case, some of the following may distract you from your crippli
 
 #### Changing the page title
 
-The GitHub Pages themes stick your repo name up there as the page title, which may not be what you want.
+The [GitHub Pages themes](https://pages.github.com/themes/) stick your repo name up there as the page title, which may not be what you want.
 
 ![](img/20-repo-name-as-title.png)
 
