@@ -21,7 +21,7 @@ Let's get fucking started.
 2. [Create a new repository ](#create-a-new-repo)
 3. [Activate GitHub Pages and choose a theme](#activate-github-pages)
 4. [Add your content](#add-your-content)
-5. [You're all done](#check-out-your-page)
+5. [You're basically done](#check-out-your-page) <hr/>
 6. [Updating your page](#edit-your-content)
 7. [Advanced topics](#advanced-topics)
 
