@@ -28,7 +28,7 @@ Let's get fucking started.
 <a name="signup"></a>
 ## Create a GitHub account
 
-If you're done this already, [fast-forward to step 2](#create-a-new-repo).
+If you've done this already, [fast-forward to step 2](#create-a-new-repo).
 
 1\. Visit [githib.com](https://github.com) and "Sign up." You'll need to pick a username, provide an email address and set your password.
 
