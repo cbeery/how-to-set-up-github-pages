@@ -144,8 +144,58 @@ By the way, any time you're clicking that "Commit changes" button, there's a fie
 
 You've probably got some semblance of a life to lead: kids to feed, a job to pretend to do, and that handle of Jamo isn't going to drink itself.
 
+If that's not the case, some of the following may distract you from your crippling isolation.
 
+#### Changing the page title
 
+The GitHub Pages themes stick your repo name up there as the page title, which may not be what you want.
 
+![](img/20-repo-name-as-title.png)
+
+You can change this. Setting a theme automatically creates a **_config.yml** file.
+
+![](img/21-config-yml.png)
+
+Set a title by editing the _config.yml file an adding a line like
+
+```
+title: Whatever You Want for the Title
+```
+
+![](img/22-add-title.png)
+
+Give it a few seconds, refresh your page, and bask in your updated title.
+
+![](img/23-title-added.png)
+
+#### Adding additional pages
+
+You can add more than one page by adding more Markdown files (with the `.md` extension) to your repo.
+
+Go to the **Code** tab in your repo and click the "Create new file" button.
+
+![](img/24-create-new-file.png)
+
+Give the file a name with `.md` at the end, add whatever Markdown text you want, and save ("Commit new file") it.
+
+![](img/25-add-another-page.png)
+
+Now use your newfound Markdown skills to link to your *new* page from your *first* page. Then feel like a goddamned genius.
+
+![](img/26-another-page.png)
+
+#### Viewing your change history
+
+Go hit your repo page. There's a link your your "commits."
+
+![](img/27-commits.png)
+
+That'll show you a list of your changes.
+
+![](img/28-commit-history.png)
+
+#### Using a custom domain
+
+This is [in progress](custom-domain).
 
 
