@@ -119,6 +119,11 @@ Then you'll be looking at your page.
 
 **Holy crap, you're done.**
 
+```
+# FYI, your page's URL is going to be:
+https://<your github username>.github.io/<your repository name>
+```
+
 <a name="edit-your-content"></a>
 ## Updating your page
 
