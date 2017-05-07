@@ -1,4 +1,4 @@
-[Some text](google.com)
+[Some text](http://google.com)
 []()
 []()
 []()
