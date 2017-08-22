@@ -30,7 +30,7 @@ Let's get fucking started.
 
 If you've done this already, [fast-forward to step 2](#create-a-new-repo).
 
-1\. Visit [githib.com](https://github.com) and "Sign up." You'll need to pick a username, provide an email address and set your password.
+1\. Visit [github.com](https://github.com) and "Sign up." You'll need to pick a username, provide an email address and set your password.
 
 ![](img/01-new-account.png)
 
@@ -96,9 +96,9 @@ Replace that boilerplate with whatever you want on your page.
 
 ![](img/13-adding-my-content.png)
 
-To save your changes, scroll down and click the "Commit changes" button.
+To save your changes, scroll down and click the **"Commit changes"** button.
 
-All your life, you've clicked "Save" buttons to save your stuff, but this is nerd territory. Here you're not just "saving" your shit, you're "committing changes" to it. As far as you're concerned: same thing.
+All your life, you've clicked "Save" buttons to save your stuff, but this is nerd territory. Here you're not just "saving" your shit, you're "committing changes" to it. As far as you're concerned: **same fucking thing**.
 
 ![](img/14-commit-change-button.png)
 
