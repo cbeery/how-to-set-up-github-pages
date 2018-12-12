@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background: yellow;
+section.main-content img {
+  padding: 5px;
+  border: solid 2px #CCCCCC;
 }
