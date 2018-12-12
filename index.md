@@ -122,6 +122,8 @@ Then you'll be looking at your page.
 ```
 # FYI, your page's URL is going to be:
 https://<your github username>.github.io/<your repository name>
+# For example:
+https://finkelstein-shit-kid.github.io/my-first-github-pages-thing
 ```
 
 <a name="edit-your-content"></a>
